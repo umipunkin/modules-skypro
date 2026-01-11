@@ -1,0 +1,23 @@
+{
+  "name": "modules-skypro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umipunkin/modules-skypro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umipunkin/modules-skypro/issues"
+  },
+  "homepage": "https://github.com/umipunkin/modules-skypro#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
